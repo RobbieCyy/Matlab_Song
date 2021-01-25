@@ -86,7 +86,7 @@ for k1 = 1:length(song_3)
 end
 songnote_3 = [];
 for k1 = 1:length(song3idx)
-    songnote_3 = [songnote_3; [notecreate(song3idx(1, k1) + song3idx(2, k1) * 12, round(dur * song3idx(3, k1)) - 75, 1, 0.7) zeros(1,75)]'];
+    songnote_3 = [songnote_3; [notecreate(song3idx(1, k1) + song3idx(2, k1) * 12, round(dur * song3idx(3, k1)), 1, 0.7)]'];
 end
 
 songnote = songnote_1 + songnote_2 + songnote_3;

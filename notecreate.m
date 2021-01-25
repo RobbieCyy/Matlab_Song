@@ -11,6 +11,7 @@ function y = notecreate(frq, dur, damp, strength)
             + alpha^3 * sin(6*pi* i/8192 * (standard*2.^((frq-1.0)/12))) ...
             + alpha^5 * sin(8*pi* i/8192 * (standard*2.^((frq-1.0)/12))) ...
             + alpha^7 * sin(10*pi* i/8192 * (standard*2.^((frq-1.0)/12))));
-        y(i) = y(i) *(exp(-i*damp / 8192) - exp(-100*i / 8192)) * strength;
+        %y(i) = y(i) *(exp(-i*damp / 8192) - exp(-100*i / 8192)) * strength;
+        y(i) = y(i) *(exp(-i*damp / 8192) - exp(-100*i / 8192)-i^4 / dur^4 * exp(-dur*damp/8192) + i^4 / dur^4 * exp(-100*dur/8192)) * strength;
     end
 end
