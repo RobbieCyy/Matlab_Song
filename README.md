@@ -6,7 +6,7 @@ The program is (now drastically) modified from Star Strider's answer in this pos
 ### CHASE
 The chorus part of CHASE by Yuuki Setsuna, remade with this matlab program.
 
-The sheet is from https://www.youtube.com/watch?v=jNTdRtlDkMw
+The score is from https://www.youtube.com/watch?v=jNTdRtlDkMw
 
 ---
 ### White Album
@@ -15,5 +15,4 @@ The sheet is from https://www.youtube.com/watch?v=jNTdRtlDkMw
 Theme song from the famous Galgame (and TV anime) series White Album.
 
 Not to be confused with the Beatles' album with the same name.
-
-Sheet music:https://www.everyonepiano.cn/Piano-1976.html
+Music score:https://www.everyonepiano.cn/Piano-1976.html
