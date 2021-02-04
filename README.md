@@ -16,3 +16,11 @@ Theme song from the famous Galgame (and TV anime) series White Album.
 
 Not to be confused with the Beatles' album with the same name.
 Music score:https://www.everyonepiano.cn/Piano-1976.html
+
+---
+### Toki No Mahou
+Ending song of Setsuna route of White Album 2.
+
+Performed according to the official music score from Leaf.
+
+To avoid copyright issues, the program will not be uploaded, as it explicitely contains the music score, which, upon uploading, may cause legal problems.
