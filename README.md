@@ -23,4 +23,4 @@ Ending song of Setsuna route of White Album 2.
 
 Performed according to the official music score from Leaf.
 
-To avoid copyright issues, the program will not be uploaded, as it explicitely contains the music score, which, upon uploading, may cause legal problems.
+To avoid copyright issues, the program will not be uploaded, as it explicitly contains the music score, which, upon uploading, may cause legal problems.
